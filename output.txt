@@ -1,0 +1,9 @@
+Lines: 6
+Words (pure alphabets): 11
+Numbers (pure digits): 2
+Alphabets: 80
+Digits: 25
+Alphanumerics: 2
+Special Characters: 27
+Spaces: 18
+Total Characters (including spaces): 150

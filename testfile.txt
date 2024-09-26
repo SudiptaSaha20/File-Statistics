@@ -1,0 +1,6 @@
+Hello, World! 12345
+Python3.9 is amazing @2024!
+Check this: A1B2C3! #$%&*
+Email me at example123@mail.com
+Special chars: !@#$%^&*()_+
+1234abcd5678EFGH
